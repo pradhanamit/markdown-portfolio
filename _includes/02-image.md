@@ -1,1 +1,1 @@
-_includes/02-image.mdalt-text!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
